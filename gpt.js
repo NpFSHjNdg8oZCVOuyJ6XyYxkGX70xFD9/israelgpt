@@ -1057,6 +1057,188 @@ const botResponses = {
         "Tech incubators and accelerators support young entrepreneurs.",
         "Many Israeli startups have become global tech leaders."
     ],
+    bread: [
+        "Israel's bakeries produce incredible varieties of bread from around the world.",
+        "Challah, the braided Shabbat bread, is a symbol of Jewish tradition and Friday evenings.",
+        "Pita bread is a staple of Israeli cuisine, used to scoop hummus and wrap falafel.",
+        "Laffa, a large flatbread, is popular in Israeli street food culture.",
+        "Israeli bakeries blend Ashkenazi, Sephardic, and Middle Eastern baking traditions.",
+        "Sourdough bakeries have become a trend in Tel Aviv and Jerusalem.",
+        "Malawach and jachnun are traditional Yemenite breads beloved in Israel.",
+        "Bread is central to Shabbat and holiday meals throughout the Jewish year."
+    ],
+    dance: [
+        "Israeli folk dance, including the Hora circle dance, is performed at celebrations worldwide.",
+        "The Hora is Israel's most iconic folk dance, traditionally performed at weddings.",
+        "Contemporary Israeli dance companies perform on stages around the world.",
+        "The Batsheva Dance Company in Tel Aviv is internationally acclaimed.",
+        "Israeli dance blends Middle Eastern, European, and modern styles.",
+        "Dance clubs in Tel Aviv attract some of the best dancers and DJs globally.",
+        "Dance workshops and festivals are popular throughout Israel.",
+        "Traditional dances from Yemenite, Ethiopian, and Russian communities enrich Israeli culture."
+    ],
+    photography: [
+        "Israel's diverse landscapes and cultures make it a paradise for photographers.",
+        "The Hula Valley's bird migrations attract wildlife photographers from around the world.",
+        "Israeli photographers have won prestigious international awards.",
+        "Photography exhibitions are held in galleries and museums across Israel.",
+        "Cave and landscape photography in the Negev is increasingly popular.",
+        "Street photography in Tel Aviv captures a vibrant, multicultural city.",
+        "Israeli photographers document both ancient archaeology and modern urban life.",
+        "Photography workshops and tours operate at sites across the country."
+    ],
+    cooking: [
+        "Israeli cooking blends Jewish traditions with Middle Eastern, Mediterranean, and global influences.",
+        "Shakshuka, eggs poached in spiced tomato sauce, is a beloved Israeli breakfast.",
+        "Cooking classes in Tel Aviv and Jerusalem attract food lovers from around the world.",
+        "Israeli chefs are celebrated internationally for their creative fusion cuisine.",
+        "Spices like za'atar, cumin, and sumac are essential in Israeli cooking.",
+        "Israeli cooking shows and food influencers enjoy huge followings.",
+        "Home cooking in Israel is a deeply social tradition, especially on Shabbat.",
+        "The Ottolenghi cookbook brought Israeli-inspired cooking to kitchens worldwide."
+    ],
+    animation: [
+        "Israeli animation has produced award-winning films and series enjoyed worldwide.",
+        "'Waltz with Bashir' brought Israeli animated storytelling to global attention.",
+        "Animation studios in Israel produce content for both local and international markets.",
+        "Israeli children's animated series are broadcast in dozens of countries.",
+        "The Jerusalem Film Festival regularly showcases Israeli animation.",
+        "Animation is taught in Israeli art and design schools.",
+        "Israeli animators have worked on major Hollywood productions."
+    ],
+    gaming: [
+        "Israel's gaming industry is growing rapidly with talented developers.",
+        "Israeli game studios produce mobile, PC, and console games enjoyed globally.",
+        "Gaming startup accelerators support new game developers in Israel.",
+        "Esports tournaments are held in Tel Aviv and other Israeli cities.",
+        "Israel's tech ecosystem provides a strong foundation for game development.",
+        "Mobile gaming is extremely popular among Israelis of all ages.",
+        "Israeli developers have contributed to major international game franchises."
+    ],
+    volunteering: [
+        "Volunteering is deeply ingrained in Israeli culture and society.",
+        "Programs like SHERUT LEUMI allow civilians to volunteer in lieu of military service.",
+        "Magen David Adom relies on thousands of volunteers for emergency medical services.",
+        "Environmental volunteering, including beach and trail cleanups, is popular.",
+        "International volunteers come to Israel to work on kibbutzim and conservation projects.",
+        "Israeli NGOs coordinate volunteering for social causes and community development.",
+        "Youth volunteering is encouraged from early school years in Israel."
+    ],
+    swimming: [
+        "Swimming is one of Israel's most popular sports and recreational activities.",
+        "Israel has produced competitive swimmers who compete internationally.",
+        "Olympic-standard pools are found in cities throughout Israel.",
+        "Swimming in the Mediterranean, Red Sea, and Sea of Galilee is a beloved pastime.",
+        "Israel's warm climate makes outdoor swimming possible most of the year.",
+        "Open water swimming events are held along Israel's Mediterranean coast.",
+        "Swimming clubs are active in schools and community centers across Israel."
+    ],
+    cycling: [
+        "Cycling is booming in Israel, with new bike lanes added in cities each year.",
+        "Tel Aviv has one of the best urban cycling networks in the Middle East.",
+        "The Israel Ride is a charity cycling event raising funds for medical research.",
+        "Mountain biking trails in the Galilee, Negev, and Golan attract enthusiasts.",
+        "Israel's flat Mediterranean coast is ideal for recreational cycling.",
+        "The Giro d'Italia has started stages in Israel, bringing global cycling attention.",
+        "Electric bicycles are increasingly popular for commuting in Israeli cities."
+    ],
+    folklore: [
+        "Israel's folklore is rich with stories from Jewish, Arab, Druze, and Bedouin traditions.",
+        "Dybbuk stories and Golem legends are part of Ashkenazi Jewish folklore.",
+        "Bedouin oral traditions preserve ancient desert wisdom and poetry.",
+        "Israeli folklore blends biblical narratives with folk wisdom from around the world.",
+        "Traditional folk songs from Yemenite, Ethiopian, and Moroccan communities are treasured.",
+        "Storytelling festivals celebrate Israel's diverse folkloric heritage.",
+        "Israeli museums and cultural centers preserve and share folkloric traditions.",
+        "Puppetry and theatrical folk performances are popular at Israeli festivals."
+    ],
+    hotsprings: [
+        "Israel has natural hot springs visited for their therapeutic properties.",
+        "Hamat Gader in the Galilee is famous for its ancient Roman baths and hot springs.",
+        "The hot springs at the Dead Sea region are rich in minerals beneficial for skin.",
+        "Natural hot springs at Tiberias have been used since ancient times.",
+        "Spa resorts around Israeli hot springs attract visitors year-round.",
+        "Hot spring bathing is a popular winter activity for Israelis.",
+        "Ancient Roman ruins surround some of Israel's most famous hot spring sites."
+    ],
+    snow: [
+        "Mount Hermon in northern Israel is Israel's only ski resort.",
+        "Snow on Mount Hermon attracts thousands of Israelis during winter.",
+        "Jerusalem occasionally sees snow, transforming the ancient city into a winter wonderland.",
+        "When it snows in Jerusalem, the entire city comes to a standstill with celebrations.",
+        "The Golan Heights can receive heavy snowfall in winter.",
+        "Skiing and snowboarding on Mount Hermon are popular winter sports.",
+        "Israelis from warmer southern regions often travel north just to see snow.",
+        "Snow days in Israel are treated as festive occasions by children and adults alike."
+    ],
+    yoga: [
+        "Yoga has become extremely popular in Israel over the past two decades.",
+        "Tel Aviv has dozens of yoga studios catering to every style and level.",
+        "Outdoor yoga classes are held on Israel's beaches at sunrise.",
+        "Israeli yoga retreats in the Galilee and Negev attract international visitors.",
+        "Meditation and mindfulness practices are widely embraced in Israel.",
+        "Yoga festivals are held across Israel throughout the year.",
+        "Israel hosts international yoga teachers and spiritual leaders for workshops."
+    ],
+    birdwatching: [
+        "Israel is one of the world's greatest birdwatching destinations.",
+        "Over 500 bird species pass through Israel during seasonal migrations.",
+        "The Hula Valley hosts millions of migrating cranes, storks, and pelicans.",
+        "Eilat is famous for rare bird sightings, especially during spring migration.",
+        "The Israeli Ornithological Center at Latrun educates visitors about local birds.",
+        "Birdwatching festivals in Israel attract enthusiasts from around the globe.",
+        "Rare species like the Sinai rosefinch and Palestine sunbird are sought by birders.",
+        "Israel Society for the Protection of Nature organizes birdwatching tours nationwide."
+    ],
+    streetfood: [
+        "Israeli street food is a global phenomenon, with falafel and shawarma leading the way.",
+        "Sabich, a pita stuffed with fried eggplant and egg, is a beloved Tel Aviv street snack.",
+        "Israeli street food markets like Carmel Market are a feast for the senses.",
+        "Shawarma shops are found on nearly every street corner in Israeli cities.",
+        "Bourekas, savory pastries filled with cheese or potato, are an Israeli street staple.",
+        "Fresh-squeezed pomegranate juice is a popular street beverage in Israel.",
+        "Israeli food trucks bring creative gourmet dishes to streets and events.",
+        "Street food culture in Israel reflects the country's diverse immigrant communities."
+    ],
+    archaeology2: [
+        "Israel's coastline hides ancient Phoenician and Roman underwater ruins.",
+        "The ancient port city of Caesarea Maritima was built by Herod the Great.",
+        "Archaeological digs in Israel allow volunteers to join real excavations.",
+        "Megiddo (Armageddon) is one of the world's most excavated ancient sites.",
+        "The City of David in Jerusalem reveals layers of 3,000-year-old history.",
+        "The Avdat Nabataean city in the Negev is a UNESCO World Heritage Site.",
+        "Israel's National Parks Authority protects over 400 archaeological sites.",
+        "New technology like ground-penetrating radar is advancing Israeli archaeology."
+    ],
+    innovation2: [
+        "Israeli entrepreneurs are known for their 'chutzpah' - bold, audacious creativity.",
+        "Israel has more NASDAQ-listed companies per capita than any non-US country.",
+        "The IDF's Unit 8200 is a startup factory, producing world-class tech entrepreneurs.",
+        "Israeli companies have revolutionized fields from cyber security to precision medicine.",
+        "Israel's culture of debate and questioning authority fuels its innovation culture.",
+        "Foreign R&D investment in Israel exceeds that of most European nations.",
+        "Israeli innovation hubs like SOSA and Station F connect the global startup ecosystem.",
+        "Israel's strong patent law system protects inventors and incentivizes innovation."
+    ],
+    herbs: [
+        "Za'atar, a blend of dried herbs, is one of Israel's most beloved spice mixes.",
+        "Fresh herbs like parsley, mint, and cilantro are used liberally in Israeli cooking.",
+        "Sumac, a tangy red spice, adds a unique flavor to Israeli salads and meats.",
+        "Israeli markets overflow with fragrant herbs and spices from around the world.",
+        "Herbal teas made from local plants like sage and chamomile are widely enjoyed.",
+        "Israeli farmers grow and export herbs including thyme, basil, and rosemary.",
+        "Medicinal herb gardens are maintained at kibbutzim and botanical gardens.",
+        "Bedouin herbal knowledge of desert plants is an important cultural tradition."
+    ],
+    wellness: [
+        "Israel is a growing destination for health and wellness tourism.",
+        "Dead Sea mud and mineral treatments are world-famous for skin care.",
+        "Israeli spas offer unique treatments using Dead Sea minerals and local botanical oils.",
+        "Meditation retreats in the Galilee and Negev attract seekers worldwide.",
+        "Israeli healthcare places increasing emphasis on preventive and holistic medicine.",
+        "Yoga, meditation, and mindfulness are integrated into many Israeli workplaces.",
+        "Wellness festivals in Israel feature yoga, nutrition, and alternative medicine."
+    ],
     default: [
         "I'm the real Israel GPT, how can I assist you?",
         "Shalom! What would you like to know about Israel?",
@@ -1273,7 +1455,33 @@ function answerQuestion(userMessage) {
         'masada': "Masada is an ancient fortress on a mountain plateau overlooking the Dead Sea. It's famous for its dramatic history - a last stand by Jewish rebels against Roman forces in 73-74 CE. Today it's a UNESCO World Heritage Site and a symbol of Jewish resilience.",
         'knesset': "The Knesset is Israel's unicameral parliament with 120 members elected every four years through proportional representation. It's based in Jerusalem and is the legislative body of the Israeli government.",
         'prime minister': "The Prime Minister is Israel's head of government, leading the country through a parliamentary democracy. The PM is usually the leader of the largest party in the Knesset and forms the government coalition.",
-        'president': "The President of Israel is the head of state and is elected by the Knesset for a seven-year term. The role is largely ceremonial, representing Israel diplomatically and performing state functions."
+        'president': "The President of Israel is the head of state and is elected by the Knesset for a seven-year term. The role is largely ceremonial, representing Israel diplomatically and performing state functions.",
+        'bread': "Israeli bakeries produce incredible varieties of bread! Challah, the braided Shabbat bread, symbolizes Friday evenings and Jewish tradition. Pita is a street food staple, laffa is a popular large flatbread, and Yemenite breads like malawach and jachnun are beloved. Sourdough bakeries are trending in Tel Aviv and Jerusalem.",
+        'challah': "Challah is the traditional braided bread of Shabbat and Jewish holidays. It is made with eggs and honey, giving it a golden color and slightly sweet flavor. Families and bakeries across Israel prepare challah every Friday for the Shabbat table.",
+        'dance': "Israeli dance culture is vibrant and diverse! The Hora circle dance is Israel's most iconic folk dance, performed at weddings and celebrations. The Batsheva Dance Company in Tel Aviv is internationally acclaimed for contemporary dance. Dance clubs in Tel Aviv attract world-class DJs and dancers.",
+        'hora': "The Hora is Israel's most beloved folk dance, performed in a joyful circle at weddings, Independence Day celebrations, and community events. Dancers link arms and spin in a circle to lively klezmer or folk music. It's a symbol of unity and celebration in Israeli culture.",
+        'photography': "Israel is a paradise for photographers! The Hula Valley attracts wildlife photographers for its stunning bird migrations. Israeli photographers have won prestigious international awards, and street photography in Tel Aviv captures a vibrant multicultural city. The Negev Desert offers otherworldly landscape photography.",
+        'cooking': "Israeli cooking is a global phenomenon! Shakshuka (eggs poached in spiced tomato sauce) is a beloved breakfast. Israeli chefs are celebrated internationally for fusion cuisine, and cooking classes in Tel Aviv attract food lovers worldwide. The Ottolenghi cookbook brought Israeli-inspired cooking to millions of kitchens.",
+        'shakshuka': "Shakshuka is one of Israel's most beloved dishes - eggs poached in a rich spiced tomato sauce with peppers and onions! It's traditionally served in a cast-iron pan with crusty bread for dipping. Shakshuka is eaten for breakfast, lunch, and even dinner across Israel.",
+        'animation': "Israeli animation has won international acclaim! 'Waltz with Bashir' brought Israeli animated storytelling to global prominence. Israeli animation studios produce content for local and international markets, children's animated series broadcast in dozens of countries, and animators have worked on major Hollywood productions.",
+        'gaming': "Israel's gaming industry is growing rapidly! Israeli game studios produce mobile, PC, and console games enjoyed globally. Esports tournaments are held in Tel Aviv, and Israel's tech ecosystem provides a strong foundation for game development. Mobile gaming is extremely popular among Israelis of all ages.",
+        'volunteering': "Volunteering is deeply ingrained in Israeli society! Programs like SHERUT LEUMI allow civilians to serve communities instead of military service. Magen David Adom relies on thousands of volunteers, and environmental volunteering including beach cleanups is popular. International volunteers come to work on kibbutzim.",
+        'cycling': "Cycling is booming in Israel! Tel Aviv has one of the best urban cycling networks in the Middle East. The Giro d'Italia has started stages in Israel, bringing global cycling attention. Mountain biking trails in the Galilee, Negev, and Golan attract enthusiasts, and electric bicycles are increasingly popular for commuting.",
+        'birdwatching': "Israel is one of the world's greatest birdwatching destinations! Over 500 bird species pass through during seasonal migrations. The Hula Valley hosts millions of cranes, storks, and pelicans. Eilat is famous for rare bird sightings during spring migration, and birdwatching festivals attract enthusiasts from around the globe.",
+        'folklore': "Israel's folklore is rich with stories from Jewish, Arab, Druze, and Bedouin traditions! Dybbuk stories and Golem legends are part of Ashkenazi folklore, while Bedouin oral traditions preserve ancient desert wisdom. Storytelling festivals celebrate Israel's diverse folkloric heritage.",
+        'hot springs': "Israel has therapeutic natural hot springs! Hamat Gader in the Galilee is famous for its ancient Roman baths. The Dead Sea region's mineral-rich hot springs are world-renowned for skin care. Tiberias has had famous hot springs since ancient times, and spa resorts attract visitors year-round.",
+        'hamat gader': "Hamat Gader is one of Israel's most extraordinary natural sites - ancient hot springs in the Jordan Valley where Israel, Jordan, and Syria meet. The site features Roman-era bath ruins, hot mineral pools, and even an alligator farm! It's one of Israel's most visited tourist attractions.",
+        'snow': "Mount Hermon in northern Israel is the country's only ski resort, drawing thousands of visitors each winter! Jerusalem occasionally sees snow, transforming the ancient city into a magical winter wonderland. When Jerusalem gets snow, the whole country celebrates. Israelis from warmer south regions travel north just to experience snow.",
+        'yoga': "Yoga has become extremely popular across Israel! Tel Aviv has dozens of yoga studios catering to every style. Outdoor yoga classes on the beach at sunrise are iconic. Israeli yoga retreats in the Galilee and Negev attract international visitors, and meditation and mindfulness practices are widely embraced in workplaces.",
+        'street food': "Israeli street food is a global phenomenon! Falafel and shawarma lead the way, but sabich (pita with fried eggplant and egg) is a beloved Tel Aviv specialty. Bourekas (savory pastries), fresh pomegranate juice, and vibrant food markets like Carmel Market make Israeli streets a feast for the senses.",
+        'sabich': "Sabich is a beloved Israeli street food - a pita filled with fried eggplant, hard-boiled egg, hummus, tahini, salad, and amba (pickled mango sauce). It was brought to Israel by Iraqi Jewish immigrants and is now one of Tel Aviv's most iconic street foods!",
+        'shawarma': "Shawarma is one of Israel's most popular street foods! Layers of meat slowly roasted on a vertical spit, then shaved off and served in pita with tahini, salad, and pickles. Shawarma shops are found on nearly every street corner in Israeli cities, and every city has its legendary shawarma joint.",
+        'za\'atar': "Za'atar is one of Israel's most beloved spice blends, combining dried thyme, oregano, sesame seeds, and sumac. It's sprinkled on bread dipped in olive oil, used on eggs, salads, and meats. Za'atar is a flavor symbol of the Levant and is central to Israeli and Palestinian cuisines.",
+        'wellness': "Israel is a rising wellness tourism destination! Dead Sea mud and mineral treatments are world-famous for skin conditions. Israeli spas offer unique therapies using Dead Sea minerals and local botanicals. Meditation retreats in the Galilee and Negev attract seekers from worldwide, and wellness festivals are increasingly popular.",
+        'batsheva': "Batsheva Dance Company, founded in Tel Aviv in 1964, is one of the world's most acclaimed contemporary dance companies. Under artistic director Ohad Naharin, the company developed the internationally recognized Gaga movement language. Batsheva's performances sell out globally and inspire generations of dancers.",
+        'innovation2': "Israeli innovation is extraordinary! Israel has more NASDAQ-listed companies per capita than any non-US country. Unit 8200 alumni found many of Israel's most successful startups, Israelis have more patents per capita than almost any nation, and the culture of bold questioning drives relentless technological progress.",
+        'herbs': "Za'atar, sumac, and fresh herbs are the soul of Israeli cooking! Israeli farmers grow and export thyme, basil, rosemary, and more. Herbal teas from local sage and chamomile are widely enjoyed, Bedouin herbal knowledge of desert plants is a cultural treasure, and Israeli markets overflow with fragrant spices from around the world.",
+        'archaeology2': "Israel's archaeological wealth never stops surprising! The ancient port of Caesarea Maritima was built by Herod the Great and is spectacularly preserved. The City of David in Jerusalem reveals 3,000-year-old history, Megiddo (biblical Armageddon) is one of the world's most excavated sites, and underwater ruins hide along the coast."
     };
 
     if (lowerMessage.includes('tell me about') || lowerMessage.includes('describe') || lowerMessage.includes('what is') || lowerMessage.includes('what\'s') || lowerMessage.includes('explain')) {
@@ -1428,7 +1636,25 @@ function getRelevantResponse(userMessage) {
         { keywords: ['theater', 'playwright', 'cameri'], category: 'theater' },
         { keywords: ['trade', 'export', 'import'], category: 'trade' },
         { keywords: ['universities', 'technion', 'ben-gurion university'], category: 'universities' },
-        { keywords: ['quadravigesimal'], category: 'quadravigesimal' }
+        { keywords: ['quadravigesimal'], category: 'quadravigesimal' },
+        { keywords: ['bread', 'challah', 'pita', 'laffa', 'malawach', 'jachnun', 'bakery', 'bake'], category: 'bread' },
+        { keywords: ['dance', 'hora', 'batsheva', 'folk dance', 'dancing'], category: 'dance' },
+        { keywords: ['photography', 'photographer', 'photo', 'camera', 'image'], category: 'photography' },
+        { keywords: ['cooking', 'cook', 'recipe', 'chef', 'shakshuka', 'cuisine class'], category: 'cooking' },
+        { keywords: ['animation', 'animated', 'cartoon', 'waltz with bashir'], category: 'animation' },
+        { keywords: ['gaming', 'game', 'esport', 'video game'], category: 'gaming' },
+        { keywords: ['volunteer', 'volunteering', 'sherut leumi', 'ngos'], category: 'volunteering' },
+        { keywords: ['swimming', 'swim', 'pool', 'open water'], category: 'swimming' },
+        { keywords: ['cycling', 'cycle', 'bicycle', 'bike lane', 'giro'], category: 'cycling' },
+        { keywords: ['folklore', 'folk tale', 'legend', 'golem', 'dybbuk', 'storytelling'], category: 'folklore' },
+        { keywords: ['hot spring', 'hamat gader', 'thermal', 'mineral bath'], category: 'hotsprings' },
+        { keywords: ['snow', 'ski', 'skiing', 'snowboard', 'hermon'], category: 'snow' },
+        { keywords: ['yoga', 'meditation', 'mindfulness', 'wellness', 'retreat', 'spa'], category: 'yoga' },
+        { keywords: ['birdwatch', 'bird watch', 'birding', 'crane', 'stork', 'pelican', 'migration bird'], category: 'birdwatching' },
+        { keywords: ['street food', 'sabich', 'shawarma', 'boureka', 'food stand', 'pita stand'], category: 'streetfood' },
+        { keywords: ['za\'atar', 'zaatar', 'sumac', 'spice', 'herb'], category: 'herbs' },
+        { keywords: ['wellness', 'healthy living', 'holistic', 'detox'], category: 'wellness' },
+        { keywords: ['innovation2', 'nasdaq', '8200 alumni', 'r&d investment'], category: 'innovation2' }
     ];
 
     if (lowerMessage.includes('chatgpt') || lowerMessage.includes('chat gpt') || lowerMessage.includes('claude') || lowerMessage.includes('gemini') || lowerMessage.includes('copilot') || lowerMessage.includes('alexa') || lowerMessage.includes('siri') || lowerMessage.includes('bard') || lowerMessage.includes(' ai ') || lowerMessage.includes('artificial intelligence')) {
